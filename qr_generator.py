@@ -2,6 +2,7 @@ from tkinter import *
 import tkinter as tk
 from tkinter.messagebox import askyesno
 import pyqrcode
+import png
 from PIL import Image, ImageTk
 
 root=tk.Tk()
